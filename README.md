@@ -1,1 +1,1 @@
-# quick-scripts
+# how-tos
